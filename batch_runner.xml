@@ -1,0 +1,7 @@
+<!--
+    implement xml runner here
+    it should run ALL your tests
+    it should run test CLASSES in parallel
+    at the end of each run, a SINGLE HTML REPORT must be generated for everything
+
+ -->
