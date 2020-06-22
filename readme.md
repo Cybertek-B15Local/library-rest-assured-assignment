@@ -8,14 +8,14 @@ This is an assignment for creating a testing framework using testng and rest ass
 
 **What to do?**
 
--[ ] Download the projeect as a zip folder (Don't clone). 
--[ ] Import it to your Intellij.
--[ ] Add the dependencies listed in the _pom.xml_ file. 
--[ ] Implement the utility classes. 
--[ ] Implement the base class.
--[ ] Project should be able to run tests in different environments.
--[ ] It should be able to read environment value either from the properties file or the command line argument.
--[ ] Automated the tests. 
+- Download the projeect as a zip folder (Don't clone). 
+- Import it to your Intellij.
+- Add the dependencies listed in the _pom.xml_ file. 
+- Implement the utility classes. 
+- Implement the base class.
+- Project should be able to run tests in different environments.
+- It should be able to read environment value either from the properties file or the command line argument.
+- Automate the tests. 
 
 **Links**
 
